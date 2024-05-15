@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syehan Safaril Mujib</h1>
-<h3 align="center">I am Frontend developer and UI/UX Designer</h3>
+<h3 align="center">I am Web developer and UI/UX Designer</h3>
 
 - 🌱 I’m currently learning **learn javascript and react frontend on codepolitan or on youtube and various other sources on the internet**
 
