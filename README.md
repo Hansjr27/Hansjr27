@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on [Hansby Mathematicks](https://hansby-mathematics.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-syehan27.netlify.app/](https://hans-portfolio-ten.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://hans-portfolio-ten.vercel.app/](https://hans-portfolio-ten.vercel.app/)
 
 - 📫 How to reach me **nakihansjr@gmail.com**
 
